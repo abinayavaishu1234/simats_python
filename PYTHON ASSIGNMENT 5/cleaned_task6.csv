@@ -1,0 +1,4 @@
+station,date,pm25,normalised_pm25
+Adyar,2026-10-01,48.0,0.0
+Guindy,2026-10-01,95.0,0.644
+Guindy,2026-10-03,121.0,1.0
