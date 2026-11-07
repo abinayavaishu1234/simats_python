@@ -1,0 +1,8 @@
+COLLEGE FEST REGISTRATION SUMMARY
+---------------------------------
+Total valid registrations: 11
+AI: 5 participants
+Coding: 3 participants
+Quiz: 5 participants
+Robotics: 5 participants
+Total errors found: 3

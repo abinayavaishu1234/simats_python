@@ -1,0 +1,2 @@
+192311011,Abi,MECH,abi@gmail.com,AI;Robotics
+192311012,Kiran,MECH,kiran@gmail.com,Quiz

@@ -1,0 +1,11 @@
+192311001, Anu, CSE, anu@gmail.com, AI; Coding
+192311002, Ravi, CSE, ravi@gmail.com, Robotics; Coding
+192311003, Meena, CSE, meena@gmail.com, AI; Quiz
+192311004, Kavi, AIDS, kavi@gmail.com, AI; Quiz
+192311005, Arun, AIDS, arun@gmail.com, Robotics
+192311006, Divya, ECE, divya@gmail.com, Robotics; Quiz
+192311008, John, ECE, john@gmail.com, AI
+192311009, Priya, EEE, priya@gmail.com, Quiz; Coding
+192311010, Mano, EEE, mano@gmail.com, Robotics
+192311011, Abi, MECH, abi@gmail.com, AI; Robotics
+192311012, Kiran, MECH, kiran@gmail.com, Quiz

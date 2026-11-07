@@ -1,0 +1,3 @@
+192311001,Anu,CSE,anu@gmail.com,AI;Coding
+192311002,Ravi,CSE,ravi@gmail.com,Robotics;Coding
+192311003,Meena,CSE,meena@gmail.com,AI;Quiz

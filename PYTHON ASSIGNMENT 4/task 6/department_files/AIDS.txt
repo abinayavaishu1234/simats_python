@@ -1,0 +1,3 @@
+192311004,Kavi,AIDS,kavi@gmail.com,AI;Quiz
+192311005,Arun,AIDS,arun@gmail.com,Robotics
+192311001,Anu,CSE,anu@gmail.com,AI;Coding
